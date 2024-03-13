@@ -1,0 +1,46 @@
+15:00:29.985 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:00:30.154 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:00:30.156 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:00:30.158 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:00:30.420 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:00:30.444 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:00:30.448 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:00:30.515 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:00:30.523 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:00:30.524 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:00:30.597 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:00:30.599 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:00:30.601 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:01:50.565 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+15:01:52.346 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+15:02:39.229 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ****** Travel Insurance validation Completed*******
+15:03:06.989 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Homepage*******
+15:03:08.610 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Car Insurance Page*******
+15:03:22.375 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ****** Car Insurance validation Completed*******
+15:03:51.456 [main] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Starting Homepage*******
+15:03:52.390 [main] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Starting Health Insurance Page*******
+15:04:28.311 [main] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Health Insurance validation Completed*******
+15:08:02.842 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+15:08:03.945 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+15:08:47.826 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ****** Travel Insurance validation Completed*******
+15:10:10.312 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+15:10:11.478 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+15:10:56.113 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ****** Travel Insurance validation Completed*******
+15:14:31.614 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+15:14:32.799 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+15:15:12.956 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ****** Travel Insurance validation Completed*******
+15:25:00.554 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+15:25:01.831 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+15:25:40.425 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ****** Travel Insurance validation Completed*******
+15:29:16.705 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+15:29:18.030 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+15:29:59.423 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ****** Travel Insurance validation Completed*******
+15:35:28.055 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+15:35:29.897 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+15:36:28.005 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ****** Travel Insurance validation Completed*******
+15:50:01.208 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2308323\eclipse-workspace\PolicyBazaar\testng.xml"
+15:50:02.342 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2308323\eclipse-workspace\PolicyBazaar\testng.xml
+
+15:50:18.827 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+15:50:21.005 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
