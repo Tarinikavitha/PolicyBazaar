@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>CASProject</groupId>
-	<artifactId>CASProject</artifactId>
+	<groupId>PolicyBazaar</groupId>
+	<artifactId>PolicyBazaar</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	
 	<build>
@@ -23,7 +23,7 @@
 					<!-- run a xml file in side sure fire plugin-->
 					<configuration>
 						<suiteXmlFiles>
-							<suiteXmlFile>testing.xml</suiteXmlFile>
+							<suiteXmlFile>testng.xml</suiteXmlFile>
 							<!-- multiple xml file can be run-->
 							<!--<suiteXmlFile>grouping.xml</suiteXmlFile> -->
 						</suiteXmlFiles>
